@@ -1,0 +1,21 @@
+div {
+  height: 100px;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+}
+
+div:first-child {
+  background-color: #ff0000;
+}
+
+div:nth-child(2) {
+  background-color: #008000;
+}
+
+div:nth-last-of-type(2) {
+  background-color: #0000ff;
+  color: #ffffff;
+}

@@ -1,0 +1,11 @@
+p:first-child {
+  color: #008000;
+}
+
+p:nth-child(2) {
+  color: #ff0000;
+}
+
+p:nth-last-of-type(1) {
+  color: #0000ff;
+}
