@@ -1,0 +1,10 @@
+a {
+  background: url("https://picsum.photos/200/300") repeat-x;
+  padding: 1rem;
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}

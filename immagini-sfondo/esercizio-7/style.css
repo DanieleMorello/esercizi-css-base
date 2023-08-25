@@ -1,0 +1,19 @@
+body {
+  display: flex;
+}
+
+.colonna {
+  height: 100vh;
+  width: calc(100% / 3);
+  color: #ff0000;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 3rem;
+  background-repeat: repeat-x;
+}
+
+.colonna-1,
+.colonna-2,
+.colonna-3 {
+  background-image: url("https://picsum.photos/200/300");
+}

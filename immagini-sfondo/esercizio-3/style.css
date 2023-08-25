@@ -1,0 +1,5 @@
+div {
+  background: url("https://picsum.photos/200/300") repeat-y;
+  padding: 1rem;
+  color: #ffffff;
+}
