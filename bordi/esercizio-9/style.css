@@ -1,0 +1,9 @@
+table {
+  width: 100%;
+}
+
+th,
+td {
+  border-right: 1px dashed #0000ff;
+  padding: 5px;
+}
