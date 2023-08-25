@@ -1,0 +1,10 @@
+body {
+  display: flex;
+}
+
+div {
+  text-align: center;
+  width: 50%;
+  outline: 1px dashed;
+  height: 100vh;
+}

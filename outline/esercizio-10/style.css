@@ -1,0 +1,6 @@
+li {
+  outline: 2px solid #0000ff;
+  background-color: #adadad;
+  padding: 5px;
+  list-style-type: none;
+}
