@@ -1,0 +1,9 @@
+a {
+  text-decoration: none;
+  padding: 5px;
+}
+
+a:hover {
+  text-decoration: underline;
+  box-shadow: 5px 5px 5px #808080;
+}
