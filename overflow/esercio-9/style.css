@@ -1,0 +1,6 @@
+p {
+  width: 100px;
+  height: 50px;
+  overflow: auto;
+  writing-mode: vertical-rl;
+}
