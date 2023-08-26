@@ -1,0 +1,14 @@
+a {
+  text-decoration: none;
+  width: 250px;
+  min-width: 200px;
+  height: 40px;
+  max-height: 50px;
+  color: #0000ff;
+  background-color: #9acd32;
+  padding: 10px;
+}
+
+a:hover {
+  text-decoration: underline;
+}

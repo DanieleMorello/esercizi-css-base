@@ -1,0 +1,10 @@
+li {
+  width: 180px;
+  max-width: 200px;
+  height: 40px;
+  min-height: 30px;
+  background-color: #ff0000;
+  list-style-type: none;
+  text-align: center;
+  padding-top: 15px;
+}
