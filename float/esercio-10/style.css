@@ -1,0 +1,22 @@
+div {
+  border: 1px solid;
+  width: 100px;
+  aspect-ratio: 1 / 1;
+}
+
+.left {
+  background-color: #008000;
+  float: left;
+}
+
+.right {
+  background-color: #000000;
+  float: right;
+}
+
+.middle {
+  background-color: #90ee90;
+  content: "";
+  display: table;
+  clear: both;
+}

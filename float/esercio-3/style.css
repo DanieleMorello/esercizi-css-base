@@ -1,0 +1,14 @@
+div {
+  width: 100px;
+  height: 100px;
+}
+
+.left {
+  float: left;
+  background-color: #ffff00;
+}
+
+.right {
+  float: right;
+  background-color: #ff00ff;
+}

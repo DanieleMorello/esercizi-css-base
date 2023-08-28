@@ -1,0 +1,22 @@
+div {
+  width: 100px;
+  aspect-ratio: 1 / 1;
+}
+
+.left {
+  float: left;
+
+  background-color: lightpink;
+}
+
+.right {
+  float: left;
+  background-color: lightblue;
+}
+
+.clear {
+  content: "";
+  display: table;
+  clear: left;
+  background-color: lightgreen;
+}

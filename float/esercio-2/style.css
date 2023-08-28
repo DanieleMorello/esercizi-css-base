@@ -1,0 +1,19 @@
+.left {
+  float: left;
+  background-color: #0000ff;
+}
+
+.right {
+  background-color: #ff0000;
+  float: right;
+}
+
+.notFloated {
+  background-color: #8a2be2;
+}
+
+div {
+  width: 200px;
+  aspect-ratio: 1 / 1;
+  border: 1px solid;
+}

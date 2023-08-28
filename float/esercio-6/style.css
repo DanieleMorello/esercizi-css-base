@@ -1,0 +1,27 @@
+div {
+  width: 100px;
+  aspect-ratio: 1 / 1;
+  border: 1px solid;
+}
+
+.left {
+  float: left;
+  background-color: #ffb6c1;
+}
+
+.middle {
+  float: left;
+  background-color: #90ee90;
+}
+
+.right {
+  float: left;
+  background-color: #add8e6;
+}
+
+.clear {
+  content: "";
+  display: table;
+  clear: both;
+  background-color: #ffffe0;
+}

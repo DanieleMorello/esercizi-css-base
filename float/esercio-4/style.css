@@ -1,0 +1,21 @@
+div {
+  width: 100px;
+  aspect-ratio: 1 / 1;
+}
+
+.left {
+  float: left;
+  background-color: #008000;
+}
+
+.right {
+  float: left;
+  background-color: #00ffff;
+}
+
+.clear {
+  content: "";
+  display: table;
+  clear: both;
+  background-color: #0000ff;
+}

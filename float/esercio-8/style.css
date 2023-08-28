@@ -1,0 +1,17 @@
+div {
+  border: 1px solid;
+  width: 100px;
+  aspect-ratio: 1 / 1;
+}
+
+.left {
+  background-color: #008000;
+  float: left;
+}
+
+.clear {
+  content: "";
+  display: table;
+  clear: both;
+  background-color: #ffffe0;
+}
