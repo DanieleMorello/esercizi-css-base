@@ -1,0 +1,15 @@
+.container {
+  position: relative;
+  border: 2px solid;
+  width: 300px;
+  background-color: #ffffff;
+}
+
+div {
+  position: absolute;
+  top: 20px;
+  left: 30px;
+  width: 200px;
+  aspect-ratio: 1 / 1;
+  background-color: #7fff00;
+}

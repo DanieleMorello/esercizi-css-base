@@ -1,0 +1,15 @@
+#contenitore {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  background-color: lightblue;
+  overflow: auto;
+}
+#divSticky {
+  position: sticky;
+  bottom: 50px;
+  right: 50px;
+  width: 100px;
+  height: 100px;
+  background-color: lightpink;
+}

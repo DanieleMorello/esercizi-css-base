@@ -1,0 +1,8 @@
+div {
+  width: 200px;
+  aspect-ratio: 1 / 1;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  background-color: #a52a2a;
+}

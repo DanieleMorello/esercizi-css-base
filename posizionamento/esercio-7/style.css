@@ -1,0 +1,16 @@
+.container {
+  position: relative;
+  border: 2px solid;
+  width: 300px;
+  aspect-ratio: 1 / 1;
+  background-color: #ffffff;
+}
+
+.divFisso {
+  position: fixed;
+  top: 10px;
+  left: 20px;
+  width: 200px;
+  aspect-ratio: 1 / 1;
+  background-color: #7fff00;
+}

@@ -1,0 +1,8 @@
+div {
+  position: sticky;
+  top: 0;
+  left: 0;
+  width: 200px;
+  aspect-ratio: 1 / 1;
+  background-color: #add8e6;
+}
