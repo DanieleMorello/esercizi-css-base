@@ -1,0 +1,6 @@
+div {
+  width: 100px;
+  aspect-ratio: 1 / 1;
+  background-color: #ff0000;
+  opacity: 0.5;
+}

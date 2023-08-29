@@ -1,0 +1,9 @@
+div {
+  width: 100px;
+  aspect-ratio: 1 / 1;
+  background-color: blue;
+}
+
+div:hover {
+  opacity: 0.9;
+}
